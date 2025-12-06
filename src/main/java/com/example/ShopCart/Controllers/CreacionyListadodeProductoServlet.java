@@ -1,13 +1,13 @@
-package com.example.lab9_20202132.Controllers;
+package com.example.ShopCart.Controllers;
 
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-import com.example.lab9_20202132.Beans.categoria;
-import com.example.lab9_20202132.Daos.CreacionyListadodeProductoDao;
-import com.example.lab9_20202132.Dto.CreacionyListadodeProductoDto;
+import com.example.ShopCart.Beans.categoria;
+import com.example.ShopCart.Daos.CreacionyListadodeProductoDao;
+import com.example.ShopCart.Dto.CreacionyListadodeProductoDto;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;

@@ -1,4 +1,4 @@
-package com.example.lab9_20202132.Beans;
+package com.example.ShopCart.Beans;
 
 public class usuario {
     private int id_usuario;

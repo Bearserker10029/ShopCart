@@ -1,7 +1,7 @@
-package com.example.lab9_20202132.Daos;
+package com.example.ShopCart.Daos;
 
-import com.example.lab9_20202132.Beans.categoria;
-import com.example.lab9_20202132.Dto.CreacionyListadodeProductoDto;
+import com.example.ShopCart.Beans.categoria;
+import com.example.ShopCart.Dto.CreacionyListadodeProductoDto;
 
 import java.math.BigDecimal;
 import java.sql.Connection;

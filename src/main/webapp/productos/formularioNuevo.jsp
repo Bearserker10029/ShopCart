@@ -1,8 +1,8 @@
 <%@page import="java.util.ArrayList" %>
-        <%@ page import="com.example.lab9_20202132.Beans.categoria" %>
+        <%@ page import="com.example.ShopCart.Beans.categoria" %>
             <%@page contentType="text/html" pageEncoding="UTF-8" %>
                 <jsp:useBean scope="request" id="listacategoria"
-                    type="java.util.ArrayList<com.example.lab9_20202132.Beans.categoria>" />
+                    type="java.util.ArrayList<com.example.ShopCart.Beans.categoria>" />
                 <!DOCTYPE html>
                 <html>
 

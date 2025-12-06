@@ -1,4 +1,4 @@
-package com.example.lab9_20202132.Dto;
+package com.example.ShopCart.Dto;
 
 import java.math.BigDecimal;
 

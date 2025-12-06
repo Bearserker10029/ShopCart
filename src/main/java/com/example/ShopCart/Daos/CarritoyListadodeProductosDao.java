@@ -1,4 +1,4 @@
-package com.example.lab9_20202132.Daos;
+package com.example.ShopCart.Daos;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-import com.example.lab9_20202132.Dto.CarritoyListadodeProductosDto;
+import com.example.ShopCart.Dto.CarritoyListadodeProductosDto;
 
 public class CarritoyListadodeProductosDao extends DaoBase {
 

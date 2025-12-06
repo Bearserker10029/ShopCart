@@ -1,8 +1,8 @@
-<%@ page import="com.example.lab9_20202132.Beans.usuario" %>
+<%@ page import="com.example.ShopCart.Beans.usuario" %>
     <%@page contentType="text/html" pageEncoding="UTF-8" %>
         <% String currentPage=request.getParameter("currentPage")==null ? "" : request.getParameter("currentPage"); %>
             <jsp:useBean id="usuarioLogueado" scope="session" type="usuario"
-                class="com.example.lab9_20202132.Beans.usuario" />
+                class="com.example.ShopCart.Beans.usuario" />
 
             <nav class="navbar navbar-expand-md navbar-light bg-light">
                 <div class="container-fluid">

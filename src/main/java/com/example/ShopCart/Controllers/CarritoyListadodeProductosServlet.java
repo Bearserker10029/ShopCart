@@ -1,8 +1,8 @@
-package com.example.lab9_20202132.Controllers;
+package com.example.ShopCart.Controllers;
 
-import com.example.lab9_20202132.Beans.usuario;
-import com.example.lab9_20202132.Daos.CarritoyListadodeProductosDao;
-import com.example.lab9_20202132.Dto.CarritoyListadodeProductosDto;
+import com.example.ShopCart.Beans.usuario;
+import com.example.ShopCart.Daos.CarritoyListadodeProductosDao;
+import com.example.ShopCart.Dto.CarritoyListadodeProductosDto;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

@@ -1,7 +1,7 @@
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="com.example.lab9_20202132.Dto.CarritoyListadodeProductosDto" %>
+<%@ page import="com.example.ShopCart.Dto.CarritoyListadodeProductosDto" %>
 <%@ page contentType="text/html" pageEncoding="UTF-8" %>
-<jsp:useBean id="listaCarrito" type="java.util.ArrayList<com.example.lab9_20202132.Dto.CarritoyListadodeProductosDto>" scope="request"/>
+<jsp:useBean id="listaCarrito" type="java.util.ArrayList<com.example.ShopCart.Dto.CarritoyListadodeProductosDto>" scope="request"/>
 
 <!DOCTYPE html>
 <html>

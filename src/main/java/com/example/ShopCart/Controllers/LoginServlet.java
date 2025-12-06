@@ -1,7 +1,7 @@
-package com.example.lab9_20202132.Controllers;
+package com.example.ShopCart.Controllers;
 
-import com.example.lab9_20202132.Beans.usuario;
-import com.example.lab9_20202132.Daos.usuarioDao;
+import com.example.ShopCart.Beans.usuario;
+import com.example.ShopCart.Daos.usuarioDao;
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;

@@ -1,4 +1,4 @@
-package com.example.lab9_20202132.Daos;
+package com.example.ShopCart.Daos;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

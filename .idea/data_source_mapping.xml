@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/e4bb45b0-41fa-467b-b827-6933d97da4f8/console.sql" value="e4bb45b0-41fa-467b-b827-6933d97da4f8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/example/lab9_20202132/Daos/CreacionyListadodeProductoDao.java" value="e4bb45b0-41fa-467b-b827-6933d97da4f8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/example/lab9_20202132/Daos/usuarioDao.java" value="e4bb45b0-41fa-467b-b827-6933d97da4f8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/ShopCart/Daos/CreacionyListadodeProductoDao.java" value="e4bb45b0-41fa-467b-b827-6933d97da4f8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/ShopCart/Daos/usuarioDao.java" value="e4bb45b0-41fa-467b-b827-6933d97da4f8" />
   </component>
 </project>

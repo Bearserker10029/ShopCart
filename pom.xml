@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example.lab9_20202132</groupId>
-    <artifactId>LAB9_IWEB_20202132</artifactId>
+    <groupId>com.example.ShopCart</groupId>
+    <artifactId>ShopCart</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>LAB9_IWEB_20202132</name>
+    <name>ShopCart</name>
     <packaging>war</packaging>
 
     <properties>
